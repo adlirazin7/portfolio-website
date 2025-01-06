@@ -1,4 +1,13 @@
-# Responsive Portfolio Website
+# My Portfolio Website
 
-A simple, fully responsive portfolio website built from scratch using only vanilla HTML, CSS, and JavaScript. This project showcases clean and modern design principles and is optimized for all screen sizes, from desktops to mobile devices.
+This repository contains the source code for my personal portfolio website. 
 
+**About**
+
+* **Purpose:** Showcase my skills, projects, and experiences to potential employers, clients, and collaborators.
+* **Technologies:** Vanills HTML, CSS and JavaScript
+* **Features:** 
+    * Interactive resume
+    * Project showcases with images and descriptions
+    * Contact form
+    * Skills and expertise section
